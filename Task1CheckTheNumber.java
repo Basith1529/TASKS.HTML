@@ -8,7 +8,7 @@ public class Task1CheckTheNumber {
 		// TODO Auto-generated method stub
 		System.out.println("Enter the number");
 		
-		/*int a=0;
+		int a=0;
 		
 		
 		if(a>0) {
@@ -24,7 +24,7 @@ public class Task1CheckTheNumber {
 		else {
 			
 			System.out.println("Zero");
-		}*/
+		}
 		
 		int b = sc.nextInt();
 		
